@@ -1,10 +1,16 @@
-### Hello 👋, Etimbuk Afia
+### Hello 👋🏽, Etimbuk Afia
 #### AI Development and Machine Learning
 I'm Etimbuk Afia (not a malware), a dedicated AI Engineer with a passion for creating intelligent systems and solving complex problems through innovative, data-driven approaches. 
-
 I specialize in machine learning, deep learning, and artificial intelligence technologies, constantly exploring new techniques and methods to push the boundaries of what's possible.
 
-Skills: PYTHON / TENSORFLOW / PYTORCH / SCIKIT-LEARN / KERAS / COMPUTER-VISION
+## Skill Set: 
+
+- Python
+- Tensorflow
+- Pytorch
+- Scikit-learn
+- Keras
+- Computer Vision
 
 - 🔭 I’m currently working on Developing advanced AI and Machine Learning models for various applications, RAGs, Generative AI. 
 - 🌱 I’m currently learning Advanced reinforcement learning, quantum computing for AI, and the latest advancements in AI research. 
