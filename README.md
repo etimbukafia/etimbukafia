@@ -8,14 +8,11 @@ Skills: PYTHON / TENSORFLOW / PYTORCH / SCIKIT-LEARN / KERAS / COMPUTER-VISION
 
 - 🔭 I’m currently working on Developing advanced AI and Machine Learning models for various applications, RAGs, Generative AI. 
 - 🌱 I’m currently learning Advanced reinforcement learning, quantum computing for AI, and the latest advancements in AI research. 
-- 💬 Ask me about Machine learning, deep learning, AI, data science, and Python programming. 
+- 💬 Ask me about Machine learning, deep learning, AI, data science, and Python programming.
 
 
-
-  📫 How to reach me:
-
+- 📫 How to reach me:
 EMAIL - afiaetimbuk100@gmail.com 
-
 LINKEDIN - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Etimbuk-Afia/)
 
 
