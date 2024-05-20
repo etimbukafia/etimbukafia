@@ -12,7 +12,9 @@ Skills: PYTHON / TENSORFLOW / PYTORCH / SCIKIT-LEARN / KERAS / COMPUTER-VISION
 
 
 - 📫 How to reach me:
+  
 EMAIL - afiaetimbuk100@gmail.com 
+
 LINKEDIN - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Etimbuk-Afia/)
 
 
