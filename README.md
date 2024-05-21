@@ -5,12 +5,7 @@ I specialize in machine learning, deep learning, and artificial intelligence tec
 
 ## Skill Set: 
 
-- Python
-- Tensorflow
-- Pytorch
-- Scikit-learn
-- Keras
-- Computer Vision
+- Python - Tensorflow - Pytorch - Scikit-learn - Keras - Computer Vision - Prompt Engineering
 
 ## 🔭 Currently working on:
 
