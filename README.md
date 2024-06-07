@@ -12,7 +12,7 @@ I specialize in machine learning, deep learning, and artificial intelligence tec
 - Developing advanced AI and Machine Learning models for various applications, RAGs, Generative AI.
 
 ## 🌱 Learning:
--  Currently learning Advanced reinforcement learning, quantum computing for AI, and the latest advancements in AI research.
+-  Currently learning Advanced reinforcement learning, multi-agent systems, quantum computing for AI, and the latest advancements in AI research.
 
 ## 💬 Ask me about:
 - Machine learning, deep learning, AI, data science, and Python programming.
