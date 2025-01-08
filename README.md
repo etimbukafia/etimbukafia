@@ -5,7 +5,7 @@ What are the boundaries to which ML and AI can be pushed? Constantly exploring n
 
 ## 🔭 Currently working on:
 
-- Developing advanced AI and Machine Learning models for various applications, RAGs, Generative AI.
+- Building cool things with AI, RAGs, Generative AI, Multi-Agent Systems, Web3 x AI.
 
 ## 🌱 Learning:
 -  Currently learning Advanced reinforcement learning, multi-agent systems, quantum computing for AI, and the latest advancements in AI research.
